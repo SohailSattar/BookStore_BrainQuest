@@ -1,5 +1,5 @@
 # BookStore_BrainQuest
-Assesement task for BrainQuest.
+Assesement task for Brain Quest.
 
 ## Description
 A client has a book store and he requires an inventory with following categories:
