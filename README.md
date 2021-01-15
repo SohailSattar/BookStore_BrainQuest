@@ -28,8 +28,11 @@ Database schema along with a test data is saved in Bookstore.sql file. Open the 
 
 ### WebAPI
 1: Download the BookStoreAPI project.
+
 2. Open it in Visual Studio.
+
 3. Before building the project, open BookStoreContext.cs file in Models folder. Search "optionsBuilder.UseSqlServer" in the file. Replace the connection string with your database connection string.
+
 4. Build the application and run it.
 
 5. To see the error log, in case if any occures, then instead of runnig "IIS Server", run the project in "BookStoreAPI".
